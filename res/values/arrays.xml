@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="update_freq_options">
+    <item>Chaque minute</item>
+    <item>5 minutes</item>
+    <item>10 minutes</item>
+    <item>15 minutes</item>
+    <item>Every Hour</item>
+  </string-array>
+
+  <string-array name="magnitude">
+    <item>3</item>
+    <item>5</item>
+    <item>6</item>
+    <item>7</item>
+    <item>8</item>
+  </string-array>
+
+  <string-array name="magnitude_options">
+    <item>3</item>
+    <item>5</item>
+    <item>6</item>
+    <item>7</item>
+    <item>8</item>
+  </string-array>
+
+  <string-array name="update_freq_values">
+    <item>1</item>
+    <item>5</item>
+    <item>10</item>
+    <item>15</item>
+    <item>60</item>
+  </string-array>
+  
+  <array name="pays">
+    <item>Algérie</item>
+    <item>Allemagne</item>
+    <item>Argentine</item>
+    <item>Australie</item>
+    <item>Autriche</item>
+    <item>Belgique</item>
+    <item>Brésil</item>
+    <item>Canada</item>
+    <item>Costa-Rica</item>
+    <item>Chine</item>
+    <item>Chypre</item>
+    <item>Corée du sud</item>
+    <item>Cuba</item>
+    <item>Danemark</item>
+    <item>Espagne</item>
+    <item>Estonie</item>
+    <item>Etats-Unis</item>
+    <item>Finlande</item>
+    <item>Royaume-Uni</item>
+    <item>Grèce</item>
+    <item>Indonésie</item>
+    <item>Irlande</item>
+    <item>Islande</item>
+    <item>Israël</item>
+    <item>Italie</item>
+    <item>Japon</item>
+    <item>Malte</item>
+    <item>Maroc</item>
+    <item>Mexique</item>
+    <item>Népal</item>
+    <item>Norvège</item>
+    <item>Pays-Bas</item>
+    <item>Pologne</item>
+    <item>Portugal</item>
+    <item>Russie</item>
+    <item>Suède</item>
+    <item>Suisse</item>
+    <item>Tunisie</item>
+    <item>Ukraine</item>
+    <item>Uruguay</item>
+    <item>Vénézuéla</item>
+  </array>
+  
+  <array name="pays_disponibles">
+    <item>Allemagne</item>
+    <item>Argentine</item>
+    <item>Australie</item>
+    <item>Autriche</item>
+    <item>Canada</item>
+    <item>Espagne</item>
+    <item>Etats-Unis</item>
+    <item>Liban</item>
+    <item>Luxembourg</item>
+    <item>Mexique</item>
+    <item>Royaume-Uni</item>
+  </array>
+  
+</resources>

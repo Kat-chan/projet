@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Projet Esiea - Pavius</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="nom_application">Projet Esiea - Pavius</string>
+    <string name="vide"></string>
+
+    <!-- Items du 'Menu Overflow' vertical -->
+    <string name="menu_actionbar"> - Pays</string>
+    <string name="item_commentaire">Envoyer un commentaire</string>
+    <string name="item_preferences">Préférences</string>
+    <string name="item_aide">Aide</string>
+    <string name="item_about">A propos de</string>
+
+    <!-- Items du 'Menu Sliding' -->
+    <string name="accueil">Accueil</string>
+    <string name="informations">Informations</string>
+    <string name="title_section1">Coiffure_1</string>
+    <string name="title_section2">Coiffure_2</string>
+    <string name="title_section3">Coiffure_3</string>
+    
+
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+ 	<!-- Menu sliding -->
+    <dimen name="shadow_width">15dp</dimen>
+    <!-- Décalage du menu sliding -->
+    <dimen name="slidingmenu_offset_smartphone">180dp</dimen>
+    <dimen name="slidingmenu_offset_tablette">360dp</dimen>
+    <!-- Items du menu sliding -->
+    <dimen name="items_menu_sliding">15sp</dimen>
+</resources>
